@@ -11,6 +11,10 @@ header {
     animation: Gradient 15s ease infinite;
 }
 
+nav {
+    top: 0;
+}
+
 footer {
     padding: 5px;
 }
