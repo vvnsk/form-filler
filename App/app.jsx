@@ -14,7 +14,7 @@ function App() {
 // Header
 function AppHeader() {
     return (
-        <header className="container-fluid h-100 d-flex flex-column justify-content-center align-items-center">
+        <header id="Home" className="container-fluid h-100 d-flex flex-column justify-content-center align-items-center">
             <h1>Form Filler</h1>
             <p>A Customizable Bookmarklet tool to fill up forms in seconds!</p>
             <p>To install, click and drag the buttons with <b><i className="fas fa-meteor"></i></b> icon to your
@@ -27,13 +27,13 @@ function AppHeader() {
 function AppNav() {
     return (
         <nav className="navbar navbar-expand-sm bg-dark position-fixed w-100">
-            <a className="navbar-brand text-white" href="#">Form Filler <i className="fas fa-meteor"></i></a>
+            <a className="navbar-brand text-white" href="#Home">Form Filler <i className="fas fa-meteor"></i></a>
             <ul className="navbar-nav">
                 <li className="nav-item">
-                    <a className="nav-link text-white" href="#">Fillers</a>
+                    <a className="nav-link text-white" href="#Fillers">Fillers</a>
                 </li>
                 <li className="nav-item">
-                    <a className="nav-link text-white" href="#">Customize</a>
+                    <a className="nav-link text-white" href="#Customize">Customize</a>
                 </li>
             </ul>
         </nav>
