@@ -5,9 +5,7 @@
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/App/app.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/App/app.jsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/App/customize.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/App/customize.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/App/filler-generator.js" beforeDir="false" afterPath="$PROJECT_DIR$/App/filler-generator.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/App/fillers.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/App/fillers.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/style.css" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -29,11 +27,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/App/fillers.jsx">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="405">
-              <caret line="27" column="57" selection-start-line="27" selection-start-column="57" selection-end-line="27" selection-end-column="57" />
+            <state relative-caret-position="15">
+              <caret line="1" column="28" selection-start-line="1" selection-start-column="28" selection-end-line="1" selection-end-column="28" />
             </state>
           </provider>
         </entry>
@@ -41,8 +39,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/App/app.jsx">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="146">
-              <caret line="19" column="95" selection-start-line="19" selection-start-column="62" selection-end-line="19" selection-end-column="95" />
+            <state relative-caret-position="619">
+              <caret line="63" column="16" selection-start-line="63" selection-start-column="9" selection-end-line="63" selection-end-column="16" />
             </state>
           </provider>
         </entry>
@@ -65,11 +63,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/App/customize.jsx">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="8" column="28" lean-forward="true" selection-start-line="8" selection-start-column="28" selection-end-line="8" selection-end-column="28" />
+            <state relative-caret-position="358">
+              <caret line="32" column="61" selection-start-line="32" selection-start-column="61" selection-end-line="32" selection-end-column="61" />
             </state>
           </provider>
         </entry>
@@ -105,10 +103,10 @@
         <option value="$PROJECT_DIR$/app.jsx" />
         <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/App/filler-generator.js" />
-        <option value="$PROJECT_DIR$/App/app.jsx" />
-        <option value="$PROJECT_DIR$/App/customize.jsx" />
         <option value="$PROJECT_DIR$/style.css" />
+        <option value="$PROJECT_DIR$/App/app.jsx" />
         <option value="$PROJECT_DIR$/App/fillers.jsx" />
+        <option value="$PROJECT_DIR$/App/customize.jsx" />
       </list>
     </option>
   </component>
@@ -123,6 +121,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -139,7 +138,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -178,7 +176,8 @@
       <updated>1550348077554</updated>
       <workItem from="1550348079001" duration="4278000" />
       <workItem from="1550535896214" duration="3503000" />
-      <workItem from="1550608486675" duration="2142000" />
+      <workItem from="1550608486675" duration="2281000" />
+      <workItem from="1550806869513" duration="2413000" />
     </task>
     <task id="LOCAL-00001" summary="Initialized React and Created basic UI">
       <created>1550446903658</created>
@@ -191,7 +190,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9923000" />
+    <option name="totallyTimeSpent" value="12475000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="797" extended-state="0" />
@@ -252,13 +251,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/App/customize.jsx">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="28" lean-forward="true" selection-start-line="8" selection-start-column="28" selection-end-line="8" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/App/filler-generator.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="390">
@@ -268,15 +260,22 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/App/app.jsx">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="146">
-          <caret line="19" column="95" selection-start-line="19" selection-start-column="62" selection-end-line="19" selection-end-column="95" />
+        <state relative-caret-position="619">
+          <caret line="63" column="16" selection-start-line="63" selection-start-column="9" selection-end-line="63" selection-end-column="16" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/App/fillers.jsx">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="405">
-          <caret line="27" column="57" selection-start-line="27" selection-start-column="57" selection-end-line="27" selection-end-column="57" />
+        <state relative-caret-position="15">
+          <caret line="1" column="28" selection-start-line="1" selection-start-column="28" selection-end-line="1" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/App/customize.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="358">
+          <caret line="32" column="61" selection-start-line="32" selection-start-column="61" selection-end-line="32" selection-end-column="61" />
         </state>
       </provider>
     </entry>

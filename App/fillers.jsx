@@ -1,9 +1,9 @@
 function Fillers() {
-    const a = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10];
+    const a = [1, 2, 3, 4, 5];
     let formFiller = new FillerGenerator();
     return (
         <div className="container-fluid">
-            <h2 id="Fillers" className="m-4">Fillers</h2>
+            <Heading id="Fillers" label="Fillers" />
             <div className="row mx-2">
             {a.map(i => {
                 return (

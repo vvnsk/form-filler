@@ -14,7 +14,8 @@ function App() {
 // Header
 function AppHeader() {
     return (
-        <header id="Home" className="container-fluid h-100 d-flex flex-column justify-content-center align-items-center">
+        <header id="Home"
+                className="container-fluid h-100 d-flex flex-column justify-content-center align-items-center">
             <h1>Form Filler</h1>
             <p>A Customizable Bookmarklet tool to fill up forms in seconds!</p>
             <p>To install, click and drag the buttons with <b><i className="fas fa-meteor"></i></b> icon to your
@@ -56,5 +57,12 @@ function AppFooter() {
                 </div>
             </div>
         </footer>
+    );
+}
+
+//Heading
+function Heading(props) {
+    return (
+        <h2 id={props.id} className="m-4">{props.label}</h2>
     );
 }
